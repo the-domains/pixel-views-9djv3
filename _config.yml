@@ -1,16 +1,16 @@
-typography_spectrum: 0.5674046173226088
+typography_spectrum: 0.5000815105158836
 color:
-  brandStrength: 0.35143982828594744
-  lightness: 0.35193124506622553
-  saturation: 0.3713413989171386
-  rhythmicContrast: 0.31900001876056194
+  brandStrength: 0.440475354436785
+  lightness: 0.6350717898458242
+  saturation: 0.4477213453501463
+  rhythmicContrast: 0.3523021833971143
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.5968689601868391
+layout_spectrum: 0.23586277500726283
 name: Pixel Views
 navigation: []
 title: Pixel Views
