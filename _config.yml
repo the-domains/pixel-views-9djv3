@@ -1,4 +1,3 @@
-layout_spectrum: 0.33530996181070805
 typography_spectrum: 0.5975283537991345
 color:
   brandStrength: 0.3583912393078208
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.33530996181070805
 name: Pixel Views
 title: Pixel Views
+description: Only Tech
